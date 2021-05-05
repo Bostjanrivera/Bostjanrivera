@@ -1,4 +1,4 @@
-![](https://i.ibb.co/hfkLmcv/Presentation-Card.png)
+![](https://avatars.githubusercontent.com/u/59171644?s=400&u=c4ec8abb568a1434724f530424ed0cf4f47984d5&v=4)
 ## Hi 😊 I'm Sebastian Rivera 
 - Platzi Master Student
 - Frontend Developer
