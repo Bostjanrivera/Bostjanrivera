@@ -4,8 +4,8 @@
 - Frontend Developer
 - Figma enthusiast
 # Core Technologies
-![](https://i.ibb.co/KL8vY6n/figma.png) ![](https://i.ibb.co/xJHRp7R/css.png) ![](https://i.ibb.co/L5GXNnx/sass.png) ![](https://i.ibb.co/J3TLwHp/js.png) ![](https://i.ibb.co/7NL21kX/html.png)
+![](https://i.ibb.co/TtfJ6cD/html.png) ![](https://i.ibb.co/Z8BhHhd/css.png) ![](https://i.ibb.co/gtKVrzh/js.png) ![](https://i.ibb.co/qYQjFDS/sass.png) ![](https://i.ibb.co/X7mD0tz/figma.png)
 ## Software, OS's
-![](https://i.ibb.co/mhQbSCs/VS.png) ![](https://i.ibb.co/9t88trG/mint.png) ![](https://i.ibb.co/MpWsqh4/win.png)
+![](https://i.ibb.co/1Rwh6qM/mint.png) ![](https://i.ibb.co/2yBwQth/VS.png) ![](https://i.ibb.co/zQvLkMQ/windows.png)
 # Languages
-![](https://i.ibb.co/jk3XM6c/spanish.png) ![](https://i.ibb.co/56W91fS/English.png)
+![](https://i.ibb.co/XDgh0vN/spanish.png) ![](https://i.ibb.co/hM6rmQq/English.png)
