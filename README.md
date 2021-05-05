@@ -1,5 +1,5 @@
 ![](https://i.ibb.co/MhvCFYj/Presentation-Card.png)
-###Hi 😊 I'm Sebastian Rivera 
+### Hi 😊 I'm Sebastian Rivera 
 - Platzi Master Student
 - Frontend Developer
 - Figma enthusiast
