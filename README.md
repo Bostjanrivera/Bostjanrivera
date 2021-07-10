@@ -3,6 +3,7 @@
 - Platzi Master Student
 - Frontend Developer
 - Figma enthusiast
+- React
 # Core Technologies
 ![](https://i.ibb.co/TtfJ6cD/html.png) ![](https://i.ibb.co/Z8BhHhd/css.png) ![](https://i.ibb.co/gtKVrzh/js.png) ![](https://i.ibb.co/qYQjFDS/sass.png) ![](https://i.ibb.co/X7mD0tz/figma.png)
 ## Software, OS's
