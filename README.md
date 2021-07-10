@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/hfkLmcv/Presentation-Card.png)
 
-<h2> Hey. It's good to see u here! </h2>
+<h3> Hey. It's good to see u here! </h3>
 
 Desarrollador frontend con conocimiento en
 JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Design Figma - Cypress
@@ -9,7 +9,7 @@ JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Des
 
 ---
 
-<h2> Core Technologies </h2>
+<h3> Core Technologies </h3>
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=git&logoColor=fff)
@@ -29,14 +29,14 @@ JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Des
 
 ---
 
-<h2> Languages </h2>
+<h3> Languages </h3>
 
 ![](https://img.shields.io/badge/_-English-292e33?style=flat-square&logo=&logoColor=white)
 ![](https://img.shields.io/badge/_-Spanish-292e33?style=flat-square&logo=&logoColor=white)
 
 ---
 
-<h2> Stats </h2>
+<h3> Stats </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 <br/><a href="https://github.com/srbostjan">
