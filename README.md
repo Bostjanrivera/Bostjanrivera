@@ -1,15 +1,40 @@
 ![](https://i.ibb.co/hfkLmcv/Presentation-Card.png)
+
 ## Hey. It's good to see u here!
+
 Desarrollador frontend con conocimiento en
 JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Design Figma - Cypress
 
+<a href="https://www.linkedin.com/in/bostjanrivera/"><img src="./assets/linkedin-shield.png"/></a> <a href="https://twitter.com/srbostjan"><img src="./assets/twitter-shield.png"/></a> <a href="https://platzi.com/p/srbostjan/"><img src="./assets/Platzi-shield.png"/></a>
+
+---
+
 # Core Technologies
-![](https://i.ibb.co/TtfJ6cD/html.png) ![](https://i.ibb.co/Z8BhHhd/css.png) ![](https://i.ibb.co/gtKVrzh/js.png) ![](https://i.ibb.co/qYQjFDS/sass.png) ![](https://i.ibb.co/X7mD0tz/figma.png)
-## Software, OS's
-![](https://i.ibb.co/1Rwh6qM/mint.png) ![](https://i.ibb.co/2yBwQth/VS.png) ![](https://i.ibb.co/zQvLkMQ/windows.png)
+
+![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=git&logoColor=fff)
+
+![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
+![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
+![Redux](https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=Redux&logoColor=fff)
+
+![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
+![Babel](https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white)
+
+![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=Figma&logoColor=white)
+
 # Languages
-![](https://i.ibb.co/XDgh0vN/spanish.png) ![](https://i.ibb.co/hM6rmQq/English.png)
+
+![](https://img.shields.io/badge/_-English-292e33?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/_-Spanish-292e33?style=flat-square&logo=&logoColor=white)
+
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbostjan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+<br/><a href="https://github.com/srbostjan">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbostjan&theme=tokyonight&count_private=true&hide=css,blade" alt="srbostjan's GitHub Stats" />
+</a>
