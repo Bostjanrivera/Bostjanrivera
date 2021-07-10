@@ -25,28 +25,20 @@ JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Des
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white)
 
-<<<<<<< HEAD
 ![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=Figma&logoColor=white)
+
+---
 
 # Languages
 
 ![](https://img.shields.io/badge/_-English-292e33?style=flat-square&logo=&logoColor=white)
 ![](https://img.shields.io/badge/_-Spanish-292e33?style=flat-square&logo=&logoColor=white)
 
+---
+
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 <br/><a href="https://github.com/srbostjan">
-=======
-![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=Babel&logoColor=white)
-
-# Languages
-
-![](https://i.ibb.co/XDgh0vN/spanish.png) ![](https://i.ibb.co/hM6rmQq/English.png)
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) <a href="https://github.com/srbostjan">
->>>>>>> b9397294328ca5791d029b74b6d884b0476b638a
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbostjan&theme=tokyonight&count_private=true&hide=css,blade" alt="srbostjan's GitHub Stats" />
 </a>
