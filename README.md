@@ -34,6 +34,8 @@ JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Des
 
 ![Figma](https://img.shields.io/badge/_-Figma-292e33?style=flat-square&logo=Figma&logoColor=white)
 
+![Cypress](https://img.shields.io/badge/_-Cypress-292e33?style=flat-square&logo=Cypress&logoColor=white)
+
 ---
 
 <h3> Languages </h3>
