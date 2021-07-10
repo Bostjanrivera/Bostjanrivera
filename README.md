@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/hfkLmcv/Presentation-Card.png)
 
-<h3> Hey. It's good to see u here! </h3>
+<h3> Hey 😊 It's good to see u here! </h3>
 
 Desarrollador frontend con conocimiento en
 JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Design Figma - Cypress
