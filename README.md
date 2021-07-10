@@ -38,7 +38,7 @@ JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Des
 
 <h3> Stats </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbostjan&show_icons=true&theme=tokyonight)
 <br/><a href="https://github.com/srbostjan">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbostjan&theme=tokyonight&count_private=true&hide=css,blade" alt="srbostjan's GitHub Stats" />
 </a>
