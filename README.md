@@ -2,8 +2,9 @@
 
 <h3> Hey 😊 It's good to see u here! </h3>
 
-Desarrollador frontend con conocimiento en
-JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Design Figma - Cypress
+Frontend developer with experience creating web pages with semantic markup and web scraping with JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Design Figma - Cypress.
+Interested in creating applications and pages focused on the user (UI | UX) that allow competitive products in the market.
+<p><b>Mail:</b> bostjanrivera @gmail.com</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/bostjanrivera/" target="_blank"><img src="./assets/linkedin-shield.png"/>
