@@ -6,11 +6,11 @@ Desarrollador frontend con conocimiento en
 JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Design Figma - Cypress
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/bostjanrivera/"><img src="./assets/linkedin-shield.png"/>
+  <a target="_blank" href="https://www.linkedin.com/in/bostjanrivera/"><img src="./assets/linkedin-shield.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/srbostjan"><img src="./assets/twitter-shield.png"/>
+  <a target="_blank" href="https://twitter.com/srbostjan"><img src="./assets/twitter-shield.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/p/srbostjan/"><img src="./assets/Platzi-shield.png"/>
+  <a target="_blank" href="https://platzi.com/p/srbostjan/"><img src="./assets/Platzi-shield.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
