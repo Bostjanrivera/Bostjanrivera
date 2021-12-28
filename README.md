@@ -2,10 +2,10 @@
 
 <h3> Hey 😊 It's good to see u here! </h3>
 
-Frontend developer with experience creating web pages with JavaScript - HTML - CSS - React - Sass - Webpack - Git - Github - Redux - UI Design Figma.
-Interested in creating applications and pages that allow competitive products in the market.
+Fronted developer and UI: UX enthusiast focused on creating clean code with good practices. specialized in: HTML, CSS, JavaScript, React, Redux, React Native, Vue, Sass, Webpack, Git / Github, UI Design Figma, Cypress.
+Interested in creating and designing user interfaces in the IT industry
 
-<p><b>Mail:</b> bostjanrivera @gmail.com</p>
+<p><b>Mail:</b> bostjanrivera@gmail.com</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/bostjanrivera/" target="_blank"><img src="./assets/linkedin-shield.png"/>
@@ -29,7 +29,9 @@ Interested in creating applications and pages that allow competitive products in
 
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/_-React-292e33?style=flat-square&logo=React&logoColor=fff)
+![React-Native](https://img.shields.io/badge/_-React_native-292e33?style=flat-square&logo=React&logoColor=fff)
 ![Redux](https://img.shields.io/badge/_-Redux-292e33?style=flat-square&logo=Redux&logoColor=fff)
+![Redux](https://img.shields.io/badge/_-Vue-292e33?style=flat-square&logo=vue.js&logoColor=fff)
 
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/_-Babel-292e33?style=flat-square&logo=Babel&logoColor=white)
