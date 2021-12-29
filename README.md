@@ -1,4 +1,4 @@
-![](https://i.ibb.co/hfkLmcv/Presentation-Card.png)
+![](https://i.ibb.co/KLpn7vK/Slide-16-9-1-8.png)
 
 <h3> Hey 😊 It's good to see u here! </h3>
 
