@@ -2,7 +2,7 @@
 
 <h3> Hey 😊 It's good to see u here! </h3>
 
-Fronted developer and UI: UX enthusiast focused on creating clean code with good practices. specialized in: HTML, CSS, JavaScript, React, Redux, React Native, Vue, Sass, Webpack, Git / Github, UI Design Figma, Cypress.
+Fronted developer and UI: UX enthusiast focused on creating clean code with good practices.
 Interested in creating and designing user interfaces in the IT industry
 
 <p><b>Mail:</b> bostjanrivera@gmail.com</p>
